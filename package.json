@@ -1,6 +1,6 @@
 {
   "name": "svg-checker-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check SVG files for correct attributes",
   "main": "index.js",
   "repository": "ChrisEbner/svg-checker-loader.git",
